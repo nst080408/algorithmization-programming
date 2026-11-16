@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="937" viewBox="0 0 880 937">
+<rect width="100%" height="100%" fill="white"/>
+<title>Основной алгоритм Main</title>
+<g fill="white" stroke="#222222" stroke-width="2">
+<ellipse cx="440.0" cy="146.0" rx="170.0" ry="46.0"/>
+<line x1="440.0" y1="192" x2="440.0" y2="234"/>
+<polygon fill="#222222" points="434.0,228 446.0,228 440.0,236"/>
+<rect x="100.0" y="240" width="680" height="92"/>
+<line x1="440.0" y1="332" x2="440.0" y2="374"/>
+<polygon fill="#222222" points="434.0,368 446.0,368 440.0,376"/>
+<rect x="100.0" y="380" width="680" height="92"/>
+<line x1="118.0" y1="380" x2="118.0" y2="472"/>
+<line x1="762.0" y1="380" x2="762.0" y2="472"/>
+<line x1="440.0" y1="472" x2="440.0" y2="514"/>
+<polygon fill="#222222" points="434.0,508 446.0,508 440.0,516"/>
+<rect x="100.0" y="520" width="680" height="92"/>
+<line x1="118.0" y1="520" x2="118.0" y2="612"/>
+<line x1="762.0" y1="520" x2="762.0" y2="612"/>
+<line x1="440.0" y1="612" x2="440.0" y2="654"/>
+<polygon fill="#222222" points="434.0,648 446.0,648 440.0,656"/>
+<polygon points="135.0,660 780.0,660 745.0,752 100.0,752"/>
+<line x1="440.0" y1="752" x2="440.0" y2="794"/>
+<polygon fill="#222222" points="434.0,788 446.0,788 440.0,796"/>
+<ellipse cx="440.0" cy="846.0" rx="170.0" ry="46.0"/>
+</g>
+<g font-family="Arial, sans-serif" font-size="23" fill="#222222"><text x="440.0" y="146.0" text-anchor="middle" dominant-baseline="central">Начало</text><text x="440.0" y="286.0" text-anchor="middle" dominant-baseline="central">a = 3; b = 1; c = 2</text><text x="440.0" y="426.0" text-anchor="middle" dominant-baseline="central">x = GetNumber(&quot;Введите x = &quot;)</text><text x="440.0" y="566.0" text-anchor="middle" dominant-baseline="central">y = GetResult(a, b, c, x)</text><text x="440.0" y="691.0" text-anchor="middle" dominant-baseline="central">Вывод x и y</text><text x="440.0" y="721.0" text-anchor="middle" dominant-baseline="central">y с точностью до 10 знаков после запятой</text><text x="440.0" y="846.0" text-anchor="middle" dominant-baseline="central">Конец</text></g>
+<text x="440.0" y="40" text-anchor="middle" dominant-baseline="central" font-family="Arial, sans-serif" font-size="28" fill="#222222">Основной алгоритм Main</text>
+</svg>
