@@ -1,0 +1,24 @@
+# Временные файлы Visual Studio и других редакторов.
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Результаты сборки .NET.
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Tt]est[Rr]esults/
+*.nupkg
+*.snupkg
+*.log
+
+# Временные файлы операционной системы.
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
